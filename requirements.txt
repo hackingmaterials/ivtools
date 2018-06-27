@@ -1,0 +1,9 @@
+pvlib==0.5.2
+cufflinks==0.8.2
+pandas==0.21.1
+numpy==1.13.3
+scipy==1.0.1
+seaborn==0.8
+matplotlib==2.2.2
+plotly==2.0.6
+scikit_learn==0.19.1
